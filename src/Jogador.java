@@ -4,4 +4,6 @@ public class Jogador {
     int idade;
     String jogoFavorito;
     int nivel;
+    int vitorias;
+    int derrotas;
 }
